@@ -1,0 +1,65 @@
+body {
+    background: white;
+}
+
+#main {
+    margin-top: 100px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 80%;
+}
+
+#title {
+    padding-bottom: 30px;
+    font-family: Monotype;
+    font-size: 50px;
+}
+
+#searchArea {
+    margin-left: 30%;
+}
+
+#searchText {
+    width: 56%;
+    height: 35px;
+    font-size: 25px;
+}
+
+#searchBtn {
+    height: 35px;
+    margin-left: -1px;
+    margin-top: -9px;
+}
+
+#searchbtn:hover {
+    cursor: pointer;
+}
+
+#searchRandom {
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+#searchResult {
+    padding-bottom: 50px;
+}
+
+a:link {
+    text-decoration: none;
+}
+
+a:visited {
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: none;
+}
+
+a:active {
+    text-decoration: none;
+}
+
+.resultDiv:hover {
+    background-color: #e1e1e1;
+}
